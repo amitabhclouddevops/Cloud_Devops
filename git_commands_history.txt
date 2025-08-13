@@ -1,0 +1,32 @@
+    5  git init
+    6  git status
+    7  git add *
+    8  git ststus
+    9  git status
+   10  git commit -m "first commit"
+   11  git branch -M main
+   12  git config --global user.name "amitabh"
+   13  git config --global user.email <amitabhp96@gmail.com
+   14  git push -u origin main
+   15  git config --global user.email amitabhp96@gmail.com
+   16  git push -u origin Main
+   17  git push -u origin main
+   18  git remote add origin https://github.com/amitabhclouddevops/Cloud_Devops.git
+   19  git push -u origin main
+   20  git remote add origin https://github.com/amitabhclouddevops/Cloud_Devops.git
+   21  git push -u origin main
+   22  [200~git branch -M main
+   23  git remote add origin https://github.com/amitabhclouddevops/Cloud_Devops.git
+   24  git push -u origin main
+   25  [200~git branch
+   26  git branch
+   27  git push -u origin master
+   28  git branch -M main
+   29  git push -u origin main
+   30  git add .
+   31  git commit -m "Initial commit"
+   32  git branch -M main
+   33  git push -u origin main
+   34  git branch
+   36  history | grep git > git_commands_history.txt
+   37  history | grep git > git_commands_history.txt
